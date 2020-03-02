@@ -15,4 +15,4 @@ Calculates distance between coordinates
 	var d = R * c; // Distance in km	  
 	widget.logWrite(WIDGET_LOG_LEVEL,MSISDN_LOG+"REQUEST PROCESSED distanceBetweenCoordinates ###"+" "+d);
 	return d;
-}```
+}
